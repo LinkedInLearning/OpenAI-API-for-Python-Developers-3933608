@@ -1,6 +1,0 @@
-max_tokens=200
-
-ChatCompletion(id='chatcmpl-9rIRqJ1PwdgeeaSpCeybL6PRyVNWn', choices=[Choice(finish_reason='length', index=0, logprobs=None, message=ChatCompletionMessage(content='AI（人工知能）は、機械が人間の知的な能力をシミュレートする技術やシステムのことです。AIは機械
-学習や深層学習などの技術を用いて、データからパターンや知識を学習し、その知識を活用して問題を解決したり、特定のタスクを実行することが可能です。\n\nAIの応用分野は広範囲にわたり、自動運転車、医療診断、金融取引、製造業、音声認識、画像処理、自然言', role='assistant', function_call=None, tool_calls=None))], created=1722489326, model='gpt-3.5-turbo-0125', object='chat.completion', service_tier=None, system_fingerprint=None, usage=CompletionUsage(completion_tokens=199, prompt_tokens=34, total_tokens=233))
-ChatCompletionMessage(content='AI（人工知能）は、機械が人間の知的な能力をシミュレートする技術やシステムのことです。AIは機械学習
-や深層学習などの技術を用いて、データからパターンや知識を学習し、その知識を活用して問題を解決したり、特定のタスクを実行することが可能です。\n\nAIの応用分野は広範囲にわたり、自動運転車、医療診断、金融取引、製造業、音声認識、画像処理、自然言', role='assistant', function_call=None, tool_calls=None)
