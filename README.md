@@ -28,10 +28,11 @@ To resolve this issue:
 4. .envファイルをrootフォルダに作成してください。
 5. OPENAI_API_KEY=に続けて取得したOpenAI API keyを.envに記入してください。
 6. .envファイルをGitHub上ではなく、Codespaceだけに置くことでOpenAI API keyの誤使用、盗用を避けます。
-
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
+## Windowsで実行するには
+- PowerShellで次のコマンドを実行する。
+setx OPENAI_API_KEY "your_api_key_here"
+- もしくはエクササイズファイル内のコードファイルと同じフォルダに.envファイルを配置してください。
+- 次のページを参照してください。https://platform.openai.com/docs/quickstart
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
