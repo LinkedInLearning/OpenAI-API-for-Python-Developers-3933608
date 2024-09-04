@@ -22,6 +22,13 @@ To resolve this issue:
 
 ## Installing
 - エクササイズファイルを使うにはOpenAI API keyが必要です。次のサイト取得してください。[platform.openai.com](https://platform.openai.com)
+## GitHub Codespacesdで実行するには
+1. CodeボタンをクリックしてCodespacesを選んでください。
+3. 新規Codespaceを作成するか既存のCodespaceを選んでください。
+4. .envファイルをrootフォルダに作成してください。
+5. OPENAI_API_KEY=に続けて取得したOpenAI API keyを.envに記入してください。
+6. .envファイルをGitHub上ではなく、Codespaceだけに置くことでOpenAI API keyの誤使用、盗用を避けます。
+
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. [Course-specific instructions]
 
