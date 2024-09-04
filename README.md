@@ -32,7 +32,7 @@ To resolve this issue:
 - PowerShellで次のコマンドを実行する。
 setx OPENAI_API_KEY "your_api_key_here"
 - もしくはエクササイズファイル内のコードファイルと同じフォルダに.envファイルを配置してください。
-- 次のページを参照してください。https://platform.openai.com/docs/quickstart
+- 詳細は次のページを参照してください。https://platform.openai.com/docs/quickstart
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
