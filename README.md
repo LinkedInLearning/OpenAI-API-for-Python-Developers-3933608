@@ -1,6 +1,10 @@
 # OpenAI API for Python Developers
 This is the repository for the LinkedIn Learning course `OpenAI API for Python Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+生成AIを使う以前のプログラミングでは、答えを導くのは常にシステムエンジニアでありプログラマでした。しかし生成AIのAPIを利用するとAIが答えを出すようになります。このコースではOpenAIのAPIをPythonのプログラムから呼び出す方法について学びます。アプリケーションプログラミングインターフェイスをPythonのプログラムで使う方法や生成AIのフレームワークであるLangChainを使い、複雑な処理を簡単なコードで実現する方法を解説します。このコースで学習すれば、従来のプログラミングでは難しかった非定型データである通常の文章を読み込みや定型データに落とし込むような処理が簡単に作成できるようになります。
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -34,8 +38,15 @@ setx OPENAI_API_KEY "your_api_key_here"
 - もしくはエクササイズファイル内のコードファイルと同じフォルダに.envファイルを配置してください。
 - 詳細は次のページを参照してください。https://platform.openai.com/docs/quickstart
 
+## インストラクター
+
+金宏和實
+
+株式会社イーザー副社長、テクニカルライター
+
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/openai-api-for-python-developers-23957123
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG8PvS0nDMD4g/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1734980145981?e=2147483647&v=beta&t=VUHQ-0pq2rkHH472d1S-dvk4ctGbMiq5ypN1e9QZ3g4
 
