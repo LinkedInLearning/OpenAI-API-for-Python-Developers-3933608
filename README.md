@@ -1,5 +1,5 @@
-# OpenAI API for Python Developers
-This is the repository for the LinkedIn Learning course `OpenAI API for Python Developers`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Python開発者のためのOpenAI API
+This is the repository for the LinkedIn Learning course `Python開発者のためのOpenAI API`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
