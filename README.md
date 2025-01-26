@@ -1,5 +1,5 @@
 # Python開発者のためのOpenAI API
-This is the repository for the LinkedIn Learning course `Python開発者のためのOpenAI API`. The full course is available from [LinkedIn Learning][lil-course-url].
+LinkedInラーニングの「Python開発者のためのOpenAI API」コース用のリポジトリです。このコースは[LinkedInラーニング][lil-course-url]で視聴できます。
 
 ![lil-thumbnail-url]
 
@@ -18,6 +18,9 @@ This is the repository for the LinkedIn Learning course `Python開発者のた�
 setx OPENAI_API_KEY "your_api_key_here"
 - もしくはエクササイズファイル内のコードファイルと同じフォルダに.envファイルを配置してください。
 - 詳細は次のページを参照してください。https://platform.openai.com/docs/quickstart
+
+## GitHub Codespacesについて
+プログラミング言語を学ぶ最良の方法は、実際にそれを使用することです。それがこのコースがGitHub Codespacesと統合されている理由です。GitHub Codespacesは、あなたが普段使っているIDEのすべての機能を提供するクラウド上の手軽な開発環境です。ローカルマシンのセットアップも必要ありません。 GitHub Codespacesを使えば、あなたが職場で使っている他のツールを使用しながら、どのパソコンからでもいつでもプログラミングの実践的な練習ができます。
 
 ## インストラクター
 
